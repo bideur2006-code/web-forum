@@ -1,0 +1,9 @@
+#header {
+    position:static;
+    top: 15px;
+    bottom: auto;
+    list-style-type:none;
+}
+ol {
+    padding-left: 15px;
+}
