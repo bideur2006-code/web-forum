@@ -3,6 +3,8 @@
     top: 15px;
     bottom: auto;
     list-style-type:none;
+    list-style-position:unset;
+    width: auto;
 }
 ol {
     margin-top: 10px;
