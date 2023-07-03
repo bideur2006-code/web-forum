@@ -1,14 +1,11 @@
 #header {
-    position:static;
-    top: 15px;
+    padding: 0;
+    margin: 0;
+    display: flex;
     bottom: auto;
     list-style-type:none;
-    list-style-position:unset;
-    width: auto;
+    color: red;
 }
-ol {
-    margin-top: 10px;
-}
-#ac{
-    margin-left: 200px;
+#header li {
+    margin-right: 15px;
 }
