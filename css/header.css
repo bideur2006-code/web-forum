@@ -1,10 +1,9 @@
 #header {
-    padding: 0;
-    margin: 0;
+    padding: 20;
+    margin: -10;
     display: flex;
-    bottom: auto;
     list-style-type:none;
-    color: red;
+    background-color: gray;
 }
 #header li {
     margin-right: 15px;
